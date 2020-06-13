@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data
 
 ## Files
-CodeBook.md is a code book that describes the variables, the data, and any transformations used
+CodeBook.md is a code book that describes the variables, the data, and any transformations performed.
 
 run_analysis.R performs the data preparation: 
 1. Merges the training and the test sets to create one data set.
